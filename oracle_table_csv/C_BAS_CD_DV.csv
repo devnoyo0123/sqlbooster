@@ -1,0 +1,6 @@
+LNG_CD,언어코드
+ITM_TP,아이템유형
+ORD_ST,주문상태
+PAY_TP,지불유형
+GND_TP,성별구분
+CUS_GD,고객등급
